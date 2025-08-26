@@ -1,7 +1,7 @@
 ## G1-07 Digital Footlong Cheese and the team members.
 
 ### 1. ณภัทร บุญมา (ปั้น)
-- [สุดหล่่อก่อปูน]()
+- ![สุดหล่่อก่อปูน](img/Kawpun.jpeg)
 - What is your favorite social media platform? Please provide the link to your profile from that platform. : !(IG ของปั้น)[https://www.instagram.com/_px.nnn?igsh=OGF2aGJtZDFvajBn&utm_source=qr]
 - What is your favorite color, why? : ชอบสีฟ้า เพราะว่า เวลาเรามองเราจะรู้สึกสบายใจที่ได้เห็นสีนี้
 - What are the 3 emojis that can describe you the most? : :neutral_face: :muscle: :parrot:
