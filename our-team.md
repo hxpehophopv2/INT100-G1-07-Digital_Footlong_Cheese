@@ -1,9 +1,9 @@
 ### 1. นางสาว ณาริษา บุบผา  (rv)
-![รูปดาคนสวย](img/da.jpg)
+![รูปพอ](img/pho.jpeg)
 - Which image of yourself is your favorite? (Insert the image above the question) : 
 - What is your favorite social media platform? Please provide the link to your profile from that platform. : [ลิ้งค์ไอจี](https://www.instagram.com/n4rlsa_p0r?igsh=dmNhbWh0bG04N25w&utm_source=qr)
 - What is your favorite color, why? : สีชมพู เพราะว่า เป็นสีที่ดูสดใส อ่อนโยน มุ้งมิ้ง
-- What are the 3 emojis that can describe you the most? : 🐈 🐈 , 💐 💐, 🍅 🍅
+- What are the 3 emojis that can describe you the most? : :cat2:,:bouquet:,:apple:
 - If you are granted with 3 wishes, what will be your wishes? :
  1.) ขอให้ได้อยู่กับครอบครัวและะคนที่รักไปนานๆ
  2.)ขอถูกหวย 2 ตัวตรงทุกงวด สาธุ 99
