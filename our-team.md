@@ -1,4 +1,4 @@
-### 1. นางสาว ณาริษา บุบผา  (rv)
+### 1. นางสาว ณาริษา บุบผา  (พอ)
 ![รูปพอ](img/pho.jpeg)
 - Which image of yourself is your favorite? (Insert the image above the question) : 
 - What is your favorite social media platform? Please provide the link to your profile from that platform. : [ลิ้งค์ไอจี](https://www.instagram.com/n4rlsa_p0r?igsh=dmNhbWh0bG04N25w&utm_source=qr)
