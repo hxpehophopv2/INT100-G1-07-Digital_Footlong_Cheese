@@ -1,8 +1,8 @@
 ## G1-07 Digital Footlong Cheese and the team members.
 
 ### 1. นางสาว เกศชฎา คงมณี (ดา)
+![รูปดาคนสวย](img/da.jpg)
 - Which image of yourself is your favorite? (Insert the image above the question) : 
-- ![รูปดาคนสวย](img/da.jpg)
 - What is your favorite social media platform? Please provide the link to your profile from that platform. : [ลิ้งค์ไอจี](https://www.instagram.com/kkedchada?igsh=YXQzbngyMDY5Z2h2&utm_source=qr)
 - What is your favorite color, why? : สีชมพู เพราะว่าชอบมาตั้งแต่เด็กแล้ว น่าจะมาจากการ์ตูนตอนเด็ก
 - What are the 3 emojis that can describe you the most? : :rabbit: , :hibiscus: , :pink_heart:
@@ -20,8 +20,8 @@
 ________________________________________________________________________________
 
 ### 2. นายธีรัช สงค์ทะเล (โฮป)
-- Which image of yourself is your favorite? (Insert the image above the question)
 ![รูปของโฮป](img/hope.jpg)
+- Which image of yourself is your favorite? (Insert the image above the question)
 - What is your favorite social media platform? Please provide the link to your profile from that platform.
 [Instagram ของโฮป](https://www.instagram.com/ur.hxpe/)
 - What is your favorite color, why?
@@ -45,9 +45,9 @@ ________________________________________________________________________________
 
 ________________________________________________________________________________
 
-### 3. นายณัฐนัย กนกเฉลิมพรรณ (โซดา) 
+### 3. นายณัฐนัย กนกเฉลิมพรรณ (โซดา)
+![รูปดาคนหล่อ](img/soda2.jpg)
 - Which image of yourself is your favorite? (Insert the image above the question) : 
-- ![รูปดาคนหล่อ](img/soda2.jpg)
 - What is your favorite social media platform? Please provide the link to your profile from that platform. : [ลิ้งค์ไอจี](https://www.instagram.com/z.rian2x?igsh=aDNqbTlnNWZlbXEz)
 - What is your favorite color, why? : ชอบสีน้ำเงินเข้มเพราะมันดูลึกลับและเย็นชาดี haha
 - What are the 3 emojis that can describe you the most? : :thinking: , :sleeping:	 , :monocle_face:
@@ -65,7 +65,7 @@ ________________________________________________________________________________
 ________________________________________________________________________________
 
 ### 4. นายณภัทร บุญมา (ปั้น)
-- ![สุดหล่่อก่อปูน](img/Kawpun.jpeg)
+![สุดหล่อก่อปูน](img/Kawpun.jpeg)
 - What is your favorite social media platform? Please provide the link to your profile from that platform. : [IG ของปั้น](https://www.instagram.com/_px.nnn?igsh=OGF2aGJtZDFvajBn&utm_source=qr)
 - What is your favorite color, why? : ชอบสีฟ้า เพราะว่า เวลาเรามองเราจะรู้สึกสบายใจที่ได้เห็นสีนี้
 - What are the 3 emojis that can describe you the most? : :neutral_face: :muscle: :parrot:
