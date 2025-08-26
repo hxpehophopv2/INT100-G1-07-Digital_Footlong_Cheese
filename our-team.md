@@ -10,9 +10,9 @@
 - What are the 3 emojis that can describe you the most?
 : :rabbit: , :guitar: , :white_heart:
 - If you are granted with 3 wishes, what will be your wishes? :
- - รวย
- - อยากลงมือทำอะไรก็ประสบความสำเร็จ
- - ไม่อยากให้มีการนินทากันและกันในโลก
+  - ประสบความสำเร็จในทุกอย่าง
+  - รวย
+  - ไม่อยากให้มีการนินทากันและกันในโลก
 - If you can choose, what will be the last thing you wish for it to fail when everything fails?
 หัวใจ :heart: เพราะไม่งั้นจะไม่มีชีวิตต่อ
 - If you can change a thing that you do not like, what would it be?
