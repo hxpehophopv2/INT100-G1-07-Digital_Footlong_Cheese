@@ -27,7 +27,7 @@ ________________________________________________________________________________
 - What is your favorite color, why?
 ชอบสีขาวค้าบ มันเป็นสีที่รวมแสงทุก ๆ สี แต่ในขณะเดียวกันมันก็เป็นสีที่บริสุทธิ์ เพราะถ้ามันโดนสีอื่นมันก็จะเปลี่ยนสีเลย อีกอย่างคือมันดูสบายตาด้วย
 - What are the 3 emojis that can describe you the most?
-: :rabbit: , :guitar: , :white_heart:
+: :rabbit:, :guitar:, :white_heart:
 - If you are granted with 3 wishes, what will be your wishes? :
   - ประสบความสำเร็จในทุกอย่าง
   - รวย
@@ -70,9 +70,9 @@ ________________________________________________________________________________
 - What is your favorite color, why? : ชอบสีฟ้า เพราะว่า เวลาเรามองเราจะรู้สึกสบายใจที่ได้เห็นสีนี้
 - What are the 3 emojis that can describe you the most? : :neutral_face: :muscle: :parrot:
 - If you are granted with 3 wishes, what will be your wishes? :
-    1.อยากให้ร่างกายแข็งแรงไปตลอด
-    2.อยากให้รวยมากๆ มีเท่าไหร่ใช้ไม่หมด
-    3.ไม่มีความทุกข์
+  - อยากให้ร่างกายแข็งแรงไปตลอด
+  - อยากให้รวยมากๆ มีเท่าไหร่ใช้ไม่หมด
+  - ไม่มีความทุกข์
 - If you can choose, what will be the last thing you wish for it to fail when everything fails? : อยากให้ร่างกายเป็นสิ่งสุดท้าย
 - If you can change a thing that you do not like, what would it be? : อยากเปลี่ยนส่วนสูงตัวเอง อยากสูงกว่านี้
 - If you won a 10 millions Baht lottery, what will you do with it? : เอาไปลงทุนทำธุรกิจของตัวเอง
@@ -89,9 +89,9 @@ ________________________________________________________________________________
 - What is your favorite color, why? : สีชมพู เพราะว่า เป็นสีที่ดูสดใส อ่อนโยน มุ้งมิ้ง
 - What are the 3 emojis that can describe you the most? : :cat2:,:bouquet:,:apple:
 - If you are granted with 3 wishes, what will be your wishes? :
- 1.) ขอให้ได้อยู่กับครอบครัวและะคนที่รักไปนานๆ
- 2.)ขอถูกหวย 2 ตัวตรงทุกงวด สาธุ 99
- 3.) มีพลังวิเศษไปไหนก็ได้จะได้ไปเที่ยวรอบโลก
+  - ขอให้ได้อยู่กับครอบครัวและะคนที่รักไปนานๆ
+  - ขอถูกหวย 2 ตัวตรงทุกงวด สาธุ 99
+  - มีพลังวิเศษไปไหนก็ได้จะได้ไปเที่ยวรอบโลก
 - If you can choose, what will be the last thing you wish for it to fail when everything fails? : ความสัมพันธ์ของครอบครัวและคนที่รัก
 - If you can change a thing that you do not like, what would it be? : อยากให้ตัวเองเป็นคนเลิกคิดมาก มีอะไรชอบเก็บไว้คนเดียว
 - If you won a 10 millions Baht lottery, what will you do with it? : เอาเงินไปเลี้ยงแมวว อยากให้แมวทุกตัวได้กินอิ่มนอนหลับ
