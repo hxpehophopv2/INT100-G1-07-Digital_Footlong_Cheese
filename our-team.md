@@ -8,8 +8,8 @@
 - What is your favorite color, why?
 ชอบสีขาวค้าบ มันเป็นสีที่รวมแสงทุก ๆ สี แต่ในขณะเดียวกันมันก็เป็นสีที่บริสุทธิ์ เพราะถ้ามันโดนสีอื่นมันก็จะเปลี่ยนสีเลย อีกอย่างคือมันดูสบายตาด้วย
 - What are the 3 emojis that can describe you the most?
-:rabbit: , :guitar: , :white_heart:
-- If you are granted with 3 wishes, what will be your wishes?
+: :rabbit: , :guitar: , :white_heart:
+- If you are granted with 3 wishes, what will be your wishes? :
  - รวย
  - อยากลงมือทำอะไรก็ประสบความสำเร็จ
  - ไม่อยากให้มีการนินทากันและกันในโลก
