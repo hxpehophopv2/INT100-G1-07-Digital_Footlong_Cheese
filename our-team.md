@@ -45,9 +45,9 @@ ________________________________________________________________________________
 
 ________________________________________________________________________________
 
-### 3. ณัฐนัย กนกเฉลิมพรรณ (โซดา) 
+### 3. นายณัฐนัย กนกเฉลิมพรรณ (โซดา) 
 - Which image of yourself is your favorite? (Insert the image above the question) : 
-- ![รูปดาคนหล่อ](img/soda.jpg)
+- ![รูปดาคนหล่อ](img/soda2.jpg)
 - What is your favorite social media platform? Please provide the link to your profile from that platform. : [ลิ้งค์ไอจี](https://www.instagram.com/z.rian2x?igsh=aDNqbTlnNWZlbXEz)
 - What is your favorite color, why? : ชอบสีน้ำเงินเข้มเพราะมันดูลึกลับและเย็นชาดี haha
 - What are the 3 emojis that can describe you the most? : :thinking: , :sleeping:	 , :monocle_face:
@@ -64,7 +64,7 @@ ________________________________________________________________________________
 
 ________________________________________________________________________________
 
-### 4. ณภัทร บุญมา (ปั้น)
+### 4. นายณภัทร บุญมา (ปั้น)
 - ![สุดหล่่อก่อปูน](img/Kawpun.jpeg)
 - What is your favorite social media platform? Please provide the link to your profile from that platform. : [IG ของปั้น](https://www.instagram.com/_px.nnn?igsh=OGF2aGJtZDFvajBn&utm_source=qr)
 - What is your favorite color, why? : ชอบสีฟ้า เพราะว่า เวลาเรามองเราจะรู้สึกสบายใจที่ได้เห็นสีนี้
@@ -82,7 +82,7 @@ ________________________________________________________________________________
 
 ________________________________________________________________________________
 
-### 5. นางสาว ณาริษา บุบผา (พอ)
+### 5. นางสาวณาริษา บุบผา (พอ)
 ![รูปพอ](img/pho.jpeg)
 - Which image of yourself is your favorite? (Insert the image above the question) : 
 - What is your favorite social media platform? Please provide the link to your profile from that platform. : [ลิ้งค์ไอจี](https://www.instagram.com/n4rlsa_p0r?igsh=dmNhbWh0bG04N25w&utm_source=qr)
